@@ -6,18 +6,18 @@ A página permite visualizar as informações do usuário, incluindo uma imagem 
 
 ## Tecnologias Utilizadas
 
-- HTML
-- CSS
-- JavaScript
+- **Backend:** Node.js, Express
+- **Frontend:** HTML, CSS, JavaScript
 
 ## Como Usar
 
 1. Faça o download ou clone este repositório em seu computador.
-2. Abra o arquivo `index.html` em seu navegador web.
-3. Visualize as informações do usuário na seção superior da página.
-4. Preencha o formulário com as novas informações desejadas.
-5. Clique no botão "Atualizar".
-6. As informações atualizadas serão exibidas na seção de informações do usuário.
+2. Navegue até o diretório do backend: `cd backend`
+3. Instale as dependências: `npm install`
+4. Inicie o servidor backend: `npm start`
+5. Abra um novo terminal e navegue até o diretório do frontend: `cd ../frontend`
+6. Instale as dependências: `npm install`
+7. Abra o arquivo `index.html` em seu navegador web.
 
 ## Personalização
 
